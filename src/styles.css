@@ -1,0 +1,4 @@
+@import url('/assets/fonts.css');
+html{scroll-behavior:smooth}body{margin:0}button,a{-webkit-tap-highlight-color:transparent}button{font:inherit}#lag .after-manifesto{margin-top:32px}#lag .article-section:focus,#lag #lag-article:focus{outline:none}#lag .hero-note{min-height:48px}#lag .choice .button{width:100%}#lag .micro-note a{text-underline-offset:3px}#lag .site-footer{background:#e8efef}#lag .back-to-top{visibility:hidden}#lag .back-to-top.visible{visibility:visible}#lag a:focus-visible,#lag button:focus-visible{outline:3px solid #347783;outline-offset:4px}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}#lag *,#lag *::before,#lag *::after{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+#lag .site-footer{padding:42px 0 65px;color:var(--muted);font-size:12px;line-height:1.6}#lag .site-footer .container{padding-top:28px;border-top:1px solid var(--line)}#lag .site-footer p{margin:0 0 20px}
